@@ -1,7 +1,7 @@
 /*
 API de almacenamiento web
 
-No spermite almacenar informacion en nuestro navegador, de dos formas:
+Nos permite almacenar informacion en nuestro navegador, de dos formas:
 
     - Local(persistencia de los datos)
     - session (los datos son volatiles)
